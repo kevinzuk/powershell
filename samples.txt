@@ -3,9 +3,6 @@ Useful Links:
 Cyber Chef:
 https://gchq.github.io/CyberChef/
 
-Online Disasembler Winapi Function Tagger:
-https://www.grifsec.com/cgi-bin/shellz.py
-
 Any.run online sandbox:
 https://app.any.run/
 
